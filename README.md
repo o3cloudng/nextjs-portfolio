@@ -1,3 +1,7 @@
+This is a landing page built with Next.js and styles with Tailwind CSS.
+
+It is mobile responsive.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
