@@ -2,11 +2,11 @@ import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Script from "next/script";
 import { useState } from "react";
-import Navbar from '../components/Navbar';
-import Hero from '../components/Hero';
-import Analytics from '../components/Analytics';
-import Newsletter from '../components/Newsletter';
-import Pricing from '../components/Pricing';
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import Analytics from "../components/Analytics";
+import Newsletter from "../components/Newsletter";
+import Pricing from "../components/Pricing";
 import Footer from "../components/Footer";
 
 export default function Home() {
@@ -16,7 +16,7 @@ export default function Home() {
         <meta charset="utf-8" />
         <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-        <title>My Portfolio</title>
+        <title>Portfolio - Olumide Oderinde</title>
         <meta content="" name="description" />
         <meta content="" name="keywords" />
 
