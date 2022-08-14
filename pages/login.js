@@ -1,5 +1,7 @@
 import React from "react";
 import { Card, Button, Row, Col, Form } from "react-bootstrap";
+import Navbar from "../components/Navbar";
+import Link from "next/link";
 
 const login = () => {
   return (
