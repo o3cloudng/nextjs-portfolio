@@ -4,9 +4,9 @@ import styles from "../styles/Home.module.css";
 const Footer = () => {
   return (
     <>
-      <div className="w-full py-10 text-white">
-        <div className="w-[80%] flex-col mx-auto grid lg:grid-cols-3 py-20">
-          <div className="justify-center col-span-1">
+      <div className="w-full p-10 text-white">
+        <div className="w-[85%] flex-col mx-auto grid lg:grid-cols-5 py-20">
+          <div className="justify-center col-span-3 pr-20 pl-3">
             <h1 className="text-3xl w-full font-bold text-[#00df9a]">
               O<sup>3</sup>
               <span className="text-red-500">.</span> Portfolio
@@ -19,7 +19,7 @@ const Footer = () => {
               Next.js example
             </p>
           </div>
-          <div className="">
+          <div className="w-[100%] justify-center col-span-2">
             <div className="flex justify-between">
               <div className="w-[100%] mx-auto">
                 <h1 className="text-3xl w-full font-bold text-[#00df9a]">
