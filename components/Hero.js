@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="max-w-[80%] mx-auto w-full h-screen mt-[-100px] text-center flex flex-col justify-center">
       <p className="text-[#00df9a]">Get to know me</p>
       <h1 className="font-bold text-4xl sm:text-6xl md:text-7xl text-white my-5 p-4">
-        I'm Olumide O.
+        I&lsquo;m Olumide O.
       </h1>
       <div>
         <p className="text-white uppercase text-2xl">
